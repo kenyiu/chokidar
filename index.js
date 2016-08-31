@@ -1,4 +1,5 @@
 'use strict';
+
 var EventEmitter = require('events').EventEmitter;
 var fs = require('fs');
 var sysPath = require('path');
